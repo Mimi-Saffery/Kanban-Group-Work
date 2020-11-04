@@ -95,7 +95,8 @@ button {
 }
 
 .square {
-    margin: 2.5rem;
+    margin: 6rem;
+
     display: flex;
     align-items: center;
     justify-content: center;
